@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="blueprint aircraft reference">
+  <rect width="420" height="300" fill="#eef4f7"/>
+  <g stroke="#bad5de" stroke-width="1" opacity=".7">
+    <path d="M28 48h364M28 96h364M28 144h364M28 192h364M28 240h364"/>
+    <path d="M62 24v252M132 24v252M202 24v252M272 24v252M342 24v252"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M64 169l115-55 84 11 92 70-108-24-41 43-28-54z" stroke="#0f6f9a" stroke-width="13"/>
+    <path d="M171 122l-58-48M229 128l38-61M241 169l57 55M149 162l-43 64" stroke="#f05b2d" stroke-width="8"/>
+    <path d="M84 110h90M244 85h90M77 235h72M273 235h77" stroke="#23445a" stroke-width="3" opacity=".62"/>
+    <circle cx="205" cy="151" r="22" fill="#ff6b32" stroke="#0f6f9a" stroke-width="8"/>
+  </g>
+  <g fill="#23445a" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" opacity=".75">
+    <text x="28" y="25">SREF 2045219822 / FIG.03</text>
+    <text x="296" y="286">AERO PROFILE</text>
+  </g>
+</svg>
