@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="blueprint robot reference">
+  <rect width="420" height="300" fill="#eef4f7"/>
+  <g stroke="#9cc6d8" stroke-width="1" opacity=".55">
+    <path d="M30 42h360M30 92h360M30 142h360M30 192h360M30 242h360"/>
+    <path d="M60 24v252M130 24v252M200 24v252M270 24v252M340 24v252"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M147 92h128l25 52-34 79H157l-38-77z" stroke="#0f6f9a" stroke-width="10"/>
+    <path d="M171 111h80l15 35-20 53h-69l-21-55z" stroke="#f05b2d" stroke-width="8"/>
+    <path d="M107 151l-48 35M313 151l47 35M155 225l-26 39M267 225l28 39" stroke="#0f6f9a" stroke-width="12"/>
+    <circle cx="210" cy="88" r="28" fill="#ff6b32" stroke="#0f6f9a" stroke-width="8"/>
+    <path d="M210 54v-28M182 86h-27M238 86h27" stroke="#f05b2d" stroke-width="6"/>
+    <path d="M80 44h95M244 43h92M62 235h74M292 236h76" stroke="#23445a" stroke-width="3" opacity=".65"/>
+  </g>
+  <g fill="#23445a" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" opacity=".75">
+    <text x="28" y="24">SREF 2045219822 / FIG.01</text>
+    <text x="286" y="286">RETRO ENGINEERING</text>
+  </g>
+</svg>
