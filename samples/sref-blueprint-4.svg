@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="blueprint motorcycle reference">
+  <rect width="420" height="300" fill="#eef4f7"/>
+  <g stroke="#bad5de" stroke-width="1" opacity=".7">
+    <path d="M28 51h364M28 101h364M28 151h364M28 201h364M28 251h364"/>
+    <path d="M62 24v252M132 24v252M202 24v252M272 24v252M342 24v252"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="117" cy="205" r="42" stroke="#0f6f9a" stroke-width="12"/>
+    <circle cx="303" cy="205" r="42" stroke="#0f6f9a" stroke-width="12"/>
+    <path d="M117 205l71-83 67 83h-99l-39-55M188 122h88l38 83M254 118l53-39" stroke="#f15c2c" stroke-width="9"/>
+    <path d="M180 119l-26-39M278 119l35-25M207 104h51" stroke="#0f6f9a" stroke-width="10"/>
+    <path d="M72 77h91M260 68h86M54 261h117M249 261h123" stroke="#23445a" stroke-width="3" opacity=".62"/>
+  </g>
+  <g fill="#23445a" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" opacity=".75">
+    <text x="28" y="25">SREF 2045219822 / FIG.04</text>
+    <text x="289" y="286">MOTO SCHEMATIC</text>
+  </g>
+</svg>
